@@ -1,0 +1,6 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# .3d files are not "detectable" causing them not to be included in the
+# language statistics
+*.3d linguist-detectable=false

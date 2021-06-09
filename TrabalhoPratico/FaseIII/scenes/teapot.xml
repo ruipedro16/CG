@@ -1,0 +1,9 @@
+<scene>
+    <group>
+        <translate Y="-35" />
+        <scale X="-25" Y="25" Z="25" />
+        <models>
+            <model file="teapot2.3d" />
+        </models>
+    </group>    
+</scene>

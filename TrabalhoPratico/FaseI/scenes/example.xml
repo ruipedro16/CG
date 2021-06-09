@@ -1,0 +1,5 @@
+<scene>
+    <model file="sphere.3d" />
+    <model file="cone_up.3d" />
+    <model file="cone_down.3d" />
+</scene>

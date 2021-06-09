@@ -1,0 +1,7 @@
+<scene>
+    <group>
+        <models>
+            <model file="torus.3d" />
+        </models>
+    </group>    
+</scene>
